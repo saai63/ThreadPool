@@ -11,3 +11,5 @@ Usage:
 
 I observed that the performance actually deteriorated with the increase in the number of threads.
 I have posted a question on Stack over flow to clarify on the same.
+
+https://stackoverflow.com/questions/59370872/mulithreading-does-not-help-for-io-intensive-task
